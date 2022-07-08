@@ -1,6 +1,6 @@
 - 👋 Hi, I’m steven musembi
 - 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning javascript for front-end web development.
+- 🌱 I’m currently learning ReactJS for front-end web development.
 - 💞️ I’m looking to collaborate on creating responsive web apps. 
 - 📫 How to reach me musembisteven@gmail.com
 
