@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Steven Musembi
 
-**Full-Stack Software Engineer | Enterprise Platform Mordernization | AWS Certified**
+**Full-Stack Software Engineer  | AWS Certified**
 
-🚀 Driving digital Transformation, Building Enterprise systems and migrating legacy systems into modern, scalable platforms with 3+ years of enterprise experience
+🚀 Driving digital Transformation, Building Enterprise systems and migrating legacy systems into modern, scalable platforms with 3+ years of  experience
 
 ## 💼 What I Do
 
-- 🏢 **Enterprise Modernization**: Software design and development for large enterprise systems, critical migrations from legacy to mordern technology, and    reducing technical debt.
+- 🏢 **Enterprise Modernization**: Software design and development for large enterprise systems, critical migrations from legacy to mordern technology, and reducing technical debt.
 - ⚡ **Performance Optimization**: Achieving improvements in application performance and  increase in user engagement
 - 🔧 **DevOps Excellence**: Reduced deployment time using CI/CD piplines as well as Docker & Kubernetes
 - 👥 **Team Leadership**: Training cross-functional teams and mentoring junior developers
@@ -78,7 +78,7 @@
 
 ---
 
-💼 **Currently based in Raleigh, NC** | Open to exciting opportunities in full-stack development and enterprise modernization
+💼 **Currently based in Raleigh, NC** | Open to exciting opportunities in full-stack development.
 
 ⚡ *"Bridging the gap between legacy systems and modern architecture"*
 <!---
