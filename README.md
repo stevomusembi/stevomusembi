@@ -1,16 +1,8 @@
 # 👋 Hi, I'm Steven Musembi
 
-**Full-Stack Software Engineer  | AWS Certified**
+**Full-Stack Software Engineer 
 
-🚀 Driving digital Transformation, Building Enterprise systems and migrating legacy systems into modern, scalable platforms with 3+ years of  experience
-
-## 💼 What I Do
-
-- 🏢 **Enterprise Modernization**: Software design and development for large enterprise systems, critical migrations from legacy to mordern technology, and reducing technical debt.
-- ⚡ **Performance Optimization**: Achieving improvements in application performance and  increase in user engagement
-- 🔧 **DevOps Excellence**: Reduced deployment time using CI/CD piplines as well as Docker & Kubernetes
-- 👥 **Team Leadership**: Training cross-functional teams and mentoring junior developers
-- ☁️ **Cloud Architecture**: AWS Certified with expertise in  cloud deployments
+🚀 I Build full stack modern,scalable platforms with 3+ years of experience
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +22,6 @@
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,16 +31,14 @@
 
 - 🔥 **RetroScore**: Building a comprehensive scoring platform with Spring Boot backend and Expo mobile app
 - 📱 **Mobile Development**: Expanding expertise in cross-platform mobile solutions
-- ⚙️ **Microservices Architecture**: Implementing scalable distributed systems
 
-<!---
 ## 📊 GitHub Stats
-
+<!---
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevomusembi&show_icons=true&theme=dark&hide_border=true)
-
+--->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevomusembi&layout=compact&theme=dark&hide_border=true)
 
-
+<!---
 ## 🏆 Professional Highlights
 
 - 🎯 **Zero-downtime migrations** serving 10,000+ active users
@@ -61,14 +50,9 @@
 ## 💡 Featured Projects
 
 ### 🎮 RetroScore Platform
-*Spring Boot • Expo • React Native*
+*Spring Boot • Expo • React Native • Postgres*
 - Comprehensive scoring and analytics platform
 - Real-time data processing and mobile-first design
-
-### 🏢 Enterprise Platform Migration
-*Angular 15 • TypeScript • Docker • Kubernetes*
-- Led critical frontend migration reducing technical debt
-- Improved performance for enterprise applications
 
 ## 🌐 Let's Connect
 
@@ -80,7 +64,6 @@
 
 💼 **Currently based in Raleigh, NC** | Open to exciting opportunities in full-stack development.
 
-⚡ *"Bridging the gap between legacy systems and modern architecture"*
 <!---
 stevomusembi/stevomusembi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
