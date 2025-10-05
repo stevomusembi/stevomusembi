@@ -51,7 +51,7 @@
 
 ### 🎮 RetroScore Platform
 *Spring Boot • Expo • React Native • Postgres*
-- Comprehensive scoring and analytics platform
+- web and app trivia game testing football score memory from past matches
 - Real-time data processing and mobile-first design
 
 ## 🌐 Let's Connect
