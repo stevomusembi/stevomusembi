@@ -29,7 +29,7 @@
 
 ## 🎯 Current Focus
 
-- 🔥 **RetroScore**: Building a comprehensive scoring platform with Spring Boot backend and Expo mobile app
+- 🔥 **RetroScore**: Building a web and mobile app trivia game with Spring Boot backend and Expo.
 - 📱 **Mobile Development**: Expanding expertise in cross-platform mobile solutions
 
 ## 📊 GitHub Stats
